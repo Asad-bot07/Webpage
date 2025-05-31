@@ -9,7 +9,7 @@ A basic practice project built using **only HTML**, demonstrating how to navigat
 - Simple internal navigation using `<a href="...">`
 
 ## 👀Preview
-!(preview.gif)
+![Website Preview](preview.gif)
 
 ## 📂 How to Use
 
